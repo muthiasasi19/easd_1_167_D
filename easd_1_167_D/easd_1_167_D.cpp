@@ -32,6 +32,9 @@ void selection_sort(int sasi[], int n) {
             if (sasi[i] < sasi[min_index]) {
                 min_index = i;
         }
+            int temp = sasi[MS];
+            sasi[MS] = sasi[min_index];
+            sasi[min_index] = temp;
     }
 }
 
