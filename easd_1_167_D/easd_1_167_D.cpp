@@ -4,7 +4,7 @@
   3. Faktor yang memepengaruhi program:
 	- Size of th einput (ukuran input)
 	- Compiler (penerjemah)
-	- Speed of machine
+	- Speed of machine (kecepatan mesin)
 	- operating system
   4. Merge sort merupakan algoritma sorting yang memiliki kapasitas atau ukuran yang paling besar dr algoritma sorting lainnya 
   5. Quadratic : bubble sort, insertion sort, dan selection sort
