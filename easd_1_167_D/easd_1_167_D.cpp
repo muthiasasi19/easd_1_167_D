@@ -2,7 +2,7 @@
   2. - Statis (Array)
 	 - Dinamis (Linked List)
   3. Faktor yang memepengaruhi program:
-	- Size of th einput (ukuran input)
+	- Size of th input (ukuran input)
 	- Compiler (penerjemah)
 	- Speed of machine (kecepatan mesin)
 	- operating system
