@@ -13,6 +13,7 @@
 #include <iostream>
 using namespace std;
 
+// variabel
 int main() {
     const int MAX = 87; // hasil dari 67 + 20 -2 x 15 + 10 + 20
     int sasi[MAX], n;
@@ -51,6 +52,7 @@ void selection_sort(int sasi[], int n) {
         cout << endl;
     }
 
+    //variabel
     int main(); {
         const int MAX = 87;
         int sasi[MAX], n;
