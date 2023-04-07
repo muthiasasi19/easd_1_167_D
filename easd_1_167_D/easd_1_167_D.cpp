@@ -1,5 +1,5 @@
 /*1. Algoritma dibutuhkan untuk menyelesaikan suatu masalah, karena algoritma itu merupakan urutan langkah-langkah logis yang disusun atau dirancang untuk menyelesaikan masalah dengan cepat dan efisien.
-  2. - statis (Array)
+  2. - Statis (Array)
 	 - Dinamis (Linked List)
   3. Faktor yang memepengaruhi program:
 	- Size of th einput (ukuran input)
