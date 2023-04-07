@@ -17,4 +17,12 @@ int main() {
     const int MAX = 87; // hasil dari 67 + 20 -2 x 15 + 10 + 20
     int sasi[MAX], n;
 }
+void input(int sasi[], int n) {
+    cout << "Masukkan " << n << " data:" << endl;
+    for (int i = 0; i < n; i++) {
+        cin >> sasi[i];
+    }
+}
+
+
 
