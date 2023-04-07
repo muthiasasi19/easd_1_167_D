@@ -42,6 +42,7 @@ void selection_sort(int sasi[], int n) {
     }
 
 
+    //prosedur
     void display(int sasi[], int n); {
         cout << "Data setelah diurutkan:" << endl;
         for (int i = 0; i < n; i++) {
