@@ -6,7 +6,7 @@
 	- Compiler (penerjemah)
 	- Speed of machine
 	- operating system
-  4. 
+  4. Merge sort merupakan algoritma sorting yang memiliki kapasitas atau ukuran yang paling besar dr algoritma sorting lainnya 
   5. Quadratic : bubble sort, insertion sort, dan selection sort
      Loglinear : merge sort, quick sort, dan shell sort(dalam beberapa kondisi)*/
 
