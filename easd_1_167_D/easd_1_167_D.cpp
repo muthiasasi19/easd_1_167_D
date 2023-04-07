@@ -47,5 +47,8 @@ void selection_sort(int sasi[], int n) {
         cout << endl;
     }
 
-   
+    int main(); {
+        const int MAX = 87;
+        int sasi[MAX], n;
 
+    }
