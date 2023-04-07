@@ -53,4 +53,8 @@ void selection_sort(int sasi[], int n) {
 
         cout << "Masukkan jumlah data (maksimal 87): ";
         cin >> n;
+
+        if (n > MAX) {
+             
+        }
     }
