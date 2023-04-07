@@ -28,6 +28,10 @@ void selection_sort(int sasi[], int n) {
     int min_index;
     for (int MS = 0; MS < n - 1; MS++) {
         min_index = MS;
+        for (int i = MS + 1; i < n; i++) {
+            if (sasi[i] < sasi[min_index]) {
+                min_index = i;
+        }
     }
 }
 
