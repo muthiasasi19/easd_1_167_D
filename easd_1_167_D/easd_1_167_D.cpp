@@ -24,5 +24,11 @@ void input(int sasi[], int n) {
     }
 }
 
+void selection_sort(int sasi[], int n) {
+    int min_index;
+    for (int MS = 0; MS < n - 1; MS++) {
+        min_index = MS;
+    }
+}
 
 
