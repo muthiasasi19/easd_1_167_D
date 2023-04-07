@@ -26,6 +26,7 @@ void input(int sasi[], int n) {
     }
 }
 
+//prosedur
 void selection_sort(int sasi[], int n) {
     int min_index;
     for (int MS = 0; MS < n - 1; MS++) {
