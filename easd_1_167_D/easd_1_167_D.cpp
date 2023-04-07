@@ -55,6 +55,7 @@ void selection_sort(int sasi[], int n) {
         cin >> n;
 
         if (n > MAX) {
-             
+            cout << "Jumlah data lebih dari batas maksimum!" << endl;
+            return;
         }
     }
