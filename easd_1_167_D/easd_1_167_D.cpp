@@ -31,11 +31,21 @@ void selection_sort(int sasi[], int n) {
         for (int i = MS + 1; i < n; i++) {
             if (sasi[i] < sasi[min_index]) {
                 min_index = i;
-        }
+            }
             int temp = sasi[MS];
             sasi[MS] = sasi[min_index];
             sasi[min_index] = temp;
+        }
     }
-}
 
+
+    void display(int sasi[], int n); {
+        cout << "Data setelah diurutkan:" << endl;
+        for (int i = 0; i < n; i++) {
+            cout << sasi[i] << " ";
+        }
+        cout << endl;
+    }
+
+   
 
